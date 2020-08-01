@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ni (Nina) Huang, Ph.D."
-logo                     : "/images/profile.jpg"
+logo                     : "/images/logo.JPG"
 title_separator          : "-"
 name                     : &name "Dr. Nina Huang"
 description              : &description "Ni (Nina) Huang, Ph.D."
