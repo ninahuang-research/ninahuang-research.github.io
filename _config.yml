@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yili (Kevin) Hong, Ph.D."
-logo                     : "/images/logo.JPEG"
+title                    : "Ni (Nina) Huang, Ph.D."
+logo                     : "/images/profile.jpg"
 title_separator          : "-"
 name                     : &name "Dr. Kevin Hong"
 description              : &description "Yili (Kevin) Hong, Ph.D."
-url                      : http://kevinhong.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://nihuang.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yilihong/yilihong.github.io"
+repository               : "ninahuang-research/ninahuang-research.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yili (Kevin) Hong"
-  avatar           : "profile.jpeg"
-  bio              : "Associate Professor (tenured), <br /> Nita and Phil Francis Faculty Fellow, <br /> PhD Program Director, <br /> Co-Director of the Digital Society Initiative"
+  name             : "Dr. Ni (Nina) Huang"
+  avatar           : "profile.jpg"
+  bio              : "Associate Professor (tenured), <br /> Bauer Fellow"
   location         :
-  employer         : "W. P. Carey School of Business, <br /> Arizona State University"
+  employer         : "C. T. Bauer College of Business, <br />University of Houston"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=VwQmUFQAAAAJ&hl=en&oi=ao"
-  email            : "hong@asu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=P9lxysAAAAAJ&hl=en"
+  email            : "ninahuang.research@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        : "oldcat87"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
