@@ -11,7 +11,7 @@ author_profile: true
 - Associate Editor in [User Behaviors, User Engagement, and Consequences,](https://icis2020.aisconferences.org/track-descriptions/#toggle-id-9) *International Conference on Information Systems (ICIS), December 13–16, 2020, Virtual Conference.*
 - Session Chair, *INFORMS Annual Meeting, November 8–11, 2020, Virtual Conference.*
 - Co-chair in the Crowd-based Platform Mini-track, *the 53th Hawaii International Conference on System Sciences (HICSS), January 7–10, 2020, Maui, HI.*
-- Associate Editor in Economics of IS Track, *International Conference on Information Systems (ICIS), December 15–18, 2019, Munich, Germany.*
+- Associate Editor in [Economics and IS Track,](https://icis2019.aisconferences.org/submissions/track-descriptions/#toggle-id-23) *International Conference on Information Systems (ICIS), December 15–18, 2019, Munich, Germany.*
 - Session Chair, *INFORMS Annual Meeting, October 20–23, 2019, Seattle, WA.*
 - Program Committee Member, *INFORMS Conference on Information Systems and Technology (CIST), October 19–20, 2019, Seattle, WA.*
 - Associate Editor in Business Analytics and Big Data Track, *European Conference on Information Systems (ECIS), June 8–14, 2019, Stockholm and Uppsala, Sweden.*

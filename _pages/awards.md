@@ -8,11 +8,11 @@ author_profile: true
 - <a href="http://netinst.org/">The NET Institute Grant</a>
 - INFORMS eBusiness Cluster Best Paper Nomination, the 2020 INFORMS Annual Meeting.
 - Dean’s Early Career Research Award, W. P. Carey School of Business, Arizona State University.
-- Dean's List for Teaching Impact, W. P. Carey School of Business, Arizona State University.
+- [Dean's List for Teaching Impact, W. P. Carey School of Business, Arizona State University.](https://wpcarey.asu.edu/sites/default/files/2019-20-deans-list-teaching-awards-wpcarey.pdf)
 
 ## 2019
-- Best Reviewer of the Year, <i>Information Systems Research.</i>
-- Outstanding Reviewer of the Year, <i>MIS Quarterly.</i>
+- [Best Reviewer of the Year,](https://pubsonline.informs.org/journal/isre) <i>Information Systems Research.</i>
+- [Outstanding Reviewer of the Year,](https://misq.org/awards-reviewer) <i>MIS Quarterly.</i>
 
 ## 2017
 - Best Paper in Track, 2017 International Conference on Information Systems (ICIS).
