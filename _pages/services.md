@@ -6,8 +6,9 @@ author_profile: true
 
 ## Academic Services
 
-- Co-chair in the Crowd-based Platform Mini-track, *the 54th Hawaii International Conference on System Sciences (HICSS), January 5–8, 2021, Kauai, HI.*
-- Associate Editor in Human Behavior and IT Track, *International Conference on Information Systems (ICIS), December 13–16, 2020, Virtual Conference.*
+- Associate Editor in [MIS Quarterly Special Issue on Digital Resilience, November 30, 2020-March 15, 2022.](https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf)
+- Co-chair in [Crowd-based Platform Mini-track,](https://hicss.hawaii.edu/tracks-54/internet-and-the-digital-economy/#crowd-based-platforms-minitrack) *the 54th Hawaii International Conference on System Sciences (HICSS), January 5–8, 2021, Kauai, HI.*
+- Associate Editor in [User Behaviors, User Engagement, and Consequences,](https://icis2020.aisconferences.org/track-descriptions/#toggle-id-9) *International Conference on Information Systems (ICIS), December 13–16, 2020, Virtual Conference.*
 - Session Chair, *INFORMS Annual Meeting, November 8–11, 2020, Virtual Conference.*
 - Co-chair in the Crowd-based Platform Mini-track, *the 53th Hawaii International Conference on System Sciences (HICSS), January 7–10, 2020, Maui, HI.*
 - Associate Editor in Economics of IS Track, *International Conference on Information Systems (ICIS), December 15–18, 2019, Munich, Germany.*
