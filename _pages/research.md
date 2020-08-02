@@ -28,9 +28,11 @@ author_profile: true
 
 1. Kuang L, Huang N, Hong Y, Yan Z. 2019. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550564?journalCode=mmis20), *Journal of Management Information Systems.* 36(1):289–320. 
 
-1. Huang N, Hong Y, Burtch G. 2017. [Social Network Integration and User Content Generation: Evidence from Natural Experiments](https://misq.org/social-network-integration-and-user-content-generation-evidence-from-natural-experiments.html), *MIS Quarterly.* 41(4):1035--1058 (Lead Article). [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MISQ_Social_Network_Integration_2017.pdf)
+1. Huang N, Hong Y, Burtch G. 2017. [Social Network Integration and User Content Generation: Evidence from Natural Experiments](https://misq.org/social-network-integration-and-user-content-generation-evidence-from-natural-experiments.html), *MIS Quarterly.* 41(4):1035--1058 (Lead Article). 
 
-1. Hong, Huang N, Burtch G, Li C. 2016. [Culture, Conformity and Emotional Suppression in Online Reviews](http://aisel.aisnet.org/jais/vol17/iss11/2/), *Journal of the Association for Information Systems.* 17(11):308--329. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JAIS_culture_online_reviews_2016.pdf)
+1. Hong, Huang N, Burtch G, Li C. 2016. [Culture, Conformity and Emotional Suppression in Online Reviews](http://aisel.aisnet.org/jais/vol17/iss11/2/), *Journal of the Association for Information Systems.* 17(11):308--329. 
 
-1. Huang N, Burtch G, Hong Y, Polman E. 2016. [Effects of Multiple Psychological Distances on Construal and Consumer Evaluation: A Field Study of Online Reviews](https://doi.org/10.1016/j.jcps.2016.03.001), *Journal of Consumer Psychology.* 26(4):474--482. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JCP_Multiple_Psychological_Distances_2016.pdf)
+1. Huang N, Burtch G, Hong Y, Polman E. 2016. [Effects of Multiple Psychological Distances on Construal and Consumer Evaluation: A Field Study of Online Reviews](https://doi.org/10.1016/j.jcps.2016.03.001), *Journal of Consumer Psychology.* 26(4):474--482. 
+
+
 
