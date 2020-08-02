@@ -4,28 +4,37 @@ permalink: /services/
 author_profile: true
 ---
 
-## Editorships
+## Academic Services
 
-- Senior Editor, *Production and Operations Management* (2019–)
-- Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
-- Associate Editor, *Information Systems Research* (2018–)
-- Associate Editor, *Journal of the Association for Information Systems* (2019–)
-- Associate Editor, *Information Systems Research*, Special Issue on “Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations and Society”
-- Associate Editor, *Information Systems Research*, Special Issue on “Market Design and Analytics”
-- Editorial Board, *Journal of the Association for Information Systems* (2017–2019)
-- Editorial Board, *Journal of the Association for Information Systems*, Special Issue on “Addressing Societal Challenges through Analytics”
+- Co-chair in the Crowd-based Platform Mini-track, *the 54th Hawaii International Conference on System Sciences (HICSS), January 5–8, 2021, Kauai, HI.*
+- Associate Editor in Human Behavior and IT Track, *International Conference on Information Systems (ICIS), December 13–16, 2020, Virtual Conference.*
+- Session Chair, *INFORMS Annual Meeting, November 8–11, 2020, Virtual Conference.*
+- Co-chair in the Crowd-based Platform Mini-track, *the 53th Hawaii International Conference on System Sciences (HICSS), January 7–10, 2020, Maui, HI.*
+- Associate Editor in Economics of IS Track, *International Conference on Information Systems (ICIS), December 15–18, 2019, Munich, Germany.*
+- Session Chair, *INFORMS Annual Meeting, October 20–23, 2019, Seattle, WA.*
+- Program Committee Member, *INFORMS Conference on Information Systems and Technology (CIST), October 19–20, 2019, Seattle, WA.*
+- Associate Editor in Business Analytics and Big Data Track, *European Conference on Information Systems (ECIS), June 8–14, 2019, Stockholm and Uppsala, Sweden.*
+- Workshop Discussant, *the 5th Workshop on Experimental and Behavioral Economics in Information Systems (WEBEIS), May 11, 2019, Minneapolis, MN.*
+- Co-chair in the Crowd-based Platform Mini-track, *the 52th Hawaii International Conference on System Sciences (HICSS), January 8–11, 2019, Maui, HI.*
+- Session Chair, *INFORMS Annual Meeting, November 4–7, 2018, Phoenix, AZ.*
+- Program Committee Member, *INFORMS Conference on Information Systems and Technology (CIST), November 2–3, 2018, Phoenix, AZ.*
+- Article Editor, *SAGE Open, September, 2018.*
+- Session Chair, *the 29th Production and Operations Management (POMS) Annual Con- ference, May 4–7, 2018, Houston, TX.*
+- Co-chair in the Crowd-based Platform Mini-track, *the 51th Hawaii International Conference on System Sciences (HICSS), January 3–6, 2018, Big Island, HI.*
+
  
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
-## PhD Students Supervision and Placement
+<!-- ## PhD Students Supervision and Placement
 
 - Chen Liang (co-chair), Assistant Professor, University of Connecticut
 - Ying Liu (co-chair), Assistant Professor, University of Massachusetts Amherst
 - Cheng Chen (member), Assistant Professor, University of Wisconsin-Milwaukee
 - Qinglai He (co-chair), current ASU PhD student
-- Keran Zhao (member), current UIC PhD student
-
+- Keran Zhao (member), current UIC PhD student -->
+<!-- 
 ## Visiting Students/Faculty & Postdocs
 
 - Lingli Wang (2019-2020), Tsinghua University
 - Rui Gu (2018-2019), University of International Business and Economics
+ -->
