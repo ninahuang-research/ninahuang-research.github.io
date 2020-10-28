@@ -24,7 +24,7 @@ author_profile: true
 
 1. Sun T, Viswanathan S, Huang N, Zheleva E. 2020. [Designing Promotion Incentive to Embrace Social Sharing: Evidence from Field and Online Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3095094), *MIS Quarterly, forthcoming.*
 
-1. Huang N, Burtch G, Hong Y, Pavlou PA. 2020. [Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3105090), *Information Systems Research, forthcoming.* 
+1. Huang N, Burtch G, Hong Y, Pavlou PA. 2020. [Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3105090), *Information Systems Research.* 31(2):431–448.
 
 1. Huang N, Sun T, Chen P, Golden J. 2019. [Word-of-Mouth System Implementation and Customer Conversion: A Randomized Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2969670), *Information Systems Research.* 30(3):711–1105.
 
