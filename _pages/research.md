@@ -18,7 +18,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Huang N, Mojumder P, Sun T, Lv J, Golden J. 2020. [Not Registered? Please Sign-up First: A Random- ized Field Experiment on the Ex-ante Registration Request](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465315), *Information Systems Research, forthcoming.*
+1. Huang N, Mojumder P, Sun T, Lv J, Golden J. 2020. [Not Registered? Please Sign-up First: A Randomized Field Experiment on the Ex-ante Registration Request](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465315), *Information Systems Research, forthcoming.*
 
 1. Huang N, Zhang J, Burtch G, Li X, Chen P. 2020. [Combating Procrastination on MOOCs via Optimal Calls-to-Action](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689997), *Information Systems Research, forthcoming.*
 
