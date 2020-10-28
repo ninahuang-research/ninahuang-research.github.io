@@ -4,9 +4,9 @@ permalink: /services/
 author_profile: true
 ---
 
-## Editorial Services
+## Journal Editorial Services
 - Associate Editor in [MIS Quarterly Special Issue on Digital Resilience,](https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf) *November 30, 2020-March 15, 2022.*
-
+- Guest Editor in [Internet Research Special Issue on the Bright Side and the Dark Side of Digital Health,](https://www.emeraldgrouppublishing.com/journal/intr/bright-side-and-dark-side-digital-health) *February 2020–December 2021.*
 
 ## Conference Services
 - Co-chair in [Crowd-based Platform Mini-track,](https://hicss.hawaii.edu/tracks-54/internet-and-the-digital-economy/#crowd-based-platforms-minitrack) *the 54th Hawaii International Conference on System Sciences (HICSS), January 5–8, 2021, Kauai, HI.*
@@ -21,7 +21,6 @@ author_profile: true
 - Co-chair in the Crowd-based Platform Mini-track, *the 52th Hawaii International Conference on System Sciences (HICSS), January 8–11, 2019, Maui, HI.*
 - Session Chair, *INFORMS Annual Meeting, November 4–7, 2018, Phoenix, AZ.*
 - Program Committee Member, *INFORMS Conference on Information Systems and Technology (CIST), November 2–3, 2018, Phoenix, AZ.*
-- Article Editor, *SAGE Open, September, 2018.*
 - Session Chair, *the 29th Production and Operations Management (POMS) Annual Con- ference, May 4–7, 2018, Houston, TX.*
 - Co-chair in the Crowd-based Platform Mini-track, *the 51th Hawaii International Conference on System Sciences (HICSS), January 3–6, 2018, Big Island, HI.*
 
