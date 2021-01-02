@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## Journal Editorial Services
-- Associate Editor in [MIS Quarterly Special Issue on Digital Resilience,](https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf) *November 30, 2020-March 15, 2022.*
-- Guest Editor in [Internet Research Special Issue on the Bright Side and the Dark Side of Digital Health,](https://www.emeraldgrouppublishing.com/journal/intr/bright-side-and-dark-side-digital-health) *February 2020–December 2021.*
+- Associate Editor, [MIS Quarterly,](https://misq.org/board/) *January 2021-*
+- Associate Editor, [MIS Quarterly Special Issue on Digital Resilience,](https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf) *November 2020-March 2022.*
+- Guest Editor, [Internet Research Special Issue on the Bright Side and the Dark Side of Digital Health,](https://www.emeraldgrouppublishing.com/journal/intr/bright-side-and-dark-side-digital-health) *February 2020–December 2021.*
 
 ## Conference Services
 - Co-chair in [Crowd-based Platform Mini-track,](https://hicss.hawaii.edu/tracks-54/internet-and-the-digital-economy/#crowd-based-platforms-minitrack) *the 54th Hawaii International Conference on System Sciences (HICSS), January 5–8, 2021, Kauai, HI.*
