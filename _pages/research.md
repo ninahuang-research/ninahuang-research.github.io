@@ -18,7 +18,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Huang N, Yan Z, Yin H. 2021. [Effects of Online-Offline Service Integration on e-Healthcare Providers: A Quasi-Natural Experiment](https://), *Production and Operations Management, forthcoming.*
+1. Huang N, Yan Z, Yin H. 2021. [Effects of Online-Offline Service Integration on e-Healthcare Providers: A Quasi-Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768055), *Production and Operations Management, forthcoming.*
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2020. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research, forthcoming.*
 
