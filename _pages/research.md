@@ -24,9 +24,9 @@ author_profile: true
 
 1. Huang N, Mojumder P, Sun T, Lv J, Golden J. 2020. [Not Registered? Please Sign-up First: A Randomized Field Experiment on the Ex-ante Registration Request](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465315), *Information Systems Research, forthcoming.*
 
-1. Huang N, Zhang J, Burtch G, Li X, Chen P. 2020. [Combating Procrastination on MOOCs via Optimal Calls-to-Action](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689997), *Information Systems Research, forthcoming.*
+1. Huang N, Zhang J, Burtch G, Li X, Chen P. 2020. [Combating Procrastination on MOOCs via Optimal Calls-to-Action](https://pubsonline.informs.org/doi/abs/10.1287/isre.2020.0974), *Information Systems Research.* 32(2):301–316.
 
-1. Sun T, Viswanathan S, Huang N, Zheleva E. 2020. [Designing Promotion Incentive to Embrace Social Sharing: Evidence from Field and Online Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3095094), *MIS Quarterly, forthcoming.*
+1. Sun T, Viswanathan S, Huang N, Zheleva E. 2020. [Designing Promotion Incentive to Embrace Social Sharing: Evidence from Field and Online Experiments](https://misq.org/designing-promotional-incentives-to-embrace-social-sharing-evidence-from-field-and-online-experiments.html), *MIS Quarterly.* 45(2):789–820.
 
 1. Huang N, Burtch G, Hong Y, Pavlou PA. 2020. [Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3105090), *Information Systems Research.* 31(2):431–448.
 
